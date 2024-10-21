@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![Screenshot 2024-10-21 205318](https://github.com/user-attachments/assets/978aa691-cdb7-44eb-9283-efacff2af79b)
 
 
 
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![Screenshot 2024-10-21 205527](https://github.com/user-attachments/assets/fe162db1-55c6-43a0-bbe5-bced5e56a792)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +80,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![Screenshot 2024-10-21 205621](https://github.com/user-attachments/assets/3b07605a-01a2-4fa2-b442-eabee55dfe1d)
+
 
 
  
@@ -94,14 +96,15 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
-
+![Screenshot 2024-10-21 205352](https://github.com/user-attachments/assets/2c1dde1a-514e-404b-9c2c-9f602be1ccad)
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![Screenshot 2024-10-21 205548](https://github.com/user-attachments/assets/f1c23f18-0aa5-49b1-a94d-0fe4b970bfb5)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+ ![Screenshot 2024-10-21 205648](https://github.com/user-attachments/assets/b03467ab-3f5d-4a54-874e-fdcb41df6400)
+
 
 
 Results:
