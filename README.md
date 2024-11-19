@@ -47,8 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
 
+
+![378041260-34ba817f-3261-4ea3-b4e2-6be450b2207d](https://github.com/user-attachments/assets/a495f86a-31eb-4e08-8a3b-770668192fef)
 
 
  
@@ -65,8 +66,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![378059554-c7827235-bbf1-4fcf-882a-3d7526f47a16](https://github.com/user-attachments/assets/4f22df1d-3e5f-4063-a044-ac21986d46a2)
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+
 
 
 iv)	Creating the new test cell view
@@ -78,8 +80,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![378059566-eaacf6b7-a39c-4f03-889b-c647666faada](https://github.com/user-attachments/assets/23b8e83f-8de0-4206-b7c3-fe3283ae6de4)
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
 
 
  
@@ -93,15 +95,16 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- 
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+ ![378041418-e532f49e-b60f-4629-bb39-9f9b4085b36f](https://github.com/user-attachments/assets/1b6cd229-5051-471e-86e4-3c5749fcba54)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+![378041432-92433262-d11d-460f-899b-5c3d1e661266](https://github.com/user-attachments/assets/2cbdbe83-bf96-4be2-a15f-dd0f46ca09fa)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+ ![378059608-4f44e14a-a71f-458c-bfef-ece3c34b07a2](https://github.com/user-attachments/assets/84dca405-184f-4ad8-a654-3b03dbd28db3)
+
 
 
 Results:
